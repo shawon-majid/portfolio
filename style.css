@@ -391,6 +391,12 @@ form .btn2 {
     cursor: pointer;
 }
 
+#msg {
+    color: #61b752;
+    margin-top: -40px;
+    display: block;
+}
+
 /* #apitest {
     background-color: white;
     color: black;
